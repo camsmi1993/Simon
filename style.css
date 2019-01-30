@@ -25,6 +25,7 @@ body {
     font-family: 'ZCOOL KuaiLe', cursive;
     margin-left: 83px;
     margin-top: 197px;
+    color: crimson;
   }
   
   .text1 {
@@ -32,6 +33,7 @@ body {
     font-family: 'ZCOOL KuaiLe', cursive;
     margin-left: 19px;
     margin-top: 142px;
+    color: crimson;
   }
   
   .text1 span:last-child {
@@ -42,8 +44,9 @@ body {
     font-family: 'ZCOOL KuaiLe', cursive;
     position: absolute;
     font-size: 40px;
-    margin-left: 35px;
+    margin-left: 45px;
     margin-top: 40px;
+    color: crimson;
   }
   
   #turn {
